@@ -4,7 +4,7 @@ Projeto desenvolvido para a disciplina de **Sistemas Distribuídos**, utilizando
 
 O sistema consiste em um servidor gRPC responsável pelo gerenciamento de tarefas e dois clientes que se comunicam remotamente com esse servidor através de uma rede privada.
 
-## 📌 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python 3
 * gRPC
@@ -16,7 +16,7 @@ O sistema consiste em um servidor gRPC responsável pelo gerenciamento de tarefa
 
 ---
 
-# 🏗️ Arquitetura do sistema
+# Arquitetura do sistema
 
 O projeto utiliza três máquinas virtuais independentes:
 
@@ -44,7 +44,7 @@ Os clientes se conectam ao servidor através de:
 
 ---
 
-# 📁 Estrutura do projeto
+# Estrutura do projeto
 
 ```text
 grpc-tarefas/
@@ -91,7 +91,7 @@ Responsável pela criação e configuração das três máquinas virtuais.
 
 ---
 
-# ⚙️ Pré-requisitos
+# Pré-requisitos
 
 Antes de iniciar, instale:
 
@@ -451,6 +451,6 @@ Se o `ping` funcionar e o servidor estiver escutando na porta `50051`, o cliente
 
 **Vinicius Lemos de Carvalho**
 **Gabriel Martins de Brito**
-**Rafael Hernanni**
+**Rafael Hernanni Medeiros Silva**
 
 ---
