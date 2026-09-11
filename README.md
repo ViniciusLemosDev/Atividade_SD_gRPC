@@ -20,9 +20,7 @@ O sistema consiste em um servidor gRPC responsável pelo gerenciamento de tarefa
 
 O projeto utiliza três máquinas virtuais independentes:
 
-```
-
-Endereçamento das máquinas
+### Endereçamento das máquinas
 
 | Máquina | Função        | IP              |
 | ------- | ------------- | --------------- |
