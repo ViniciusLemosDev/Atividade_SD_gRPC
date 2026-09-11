@@ -50,7 +50,6 @@ grpc-tarefas/
 ├── tarefas_pb2.py
 ├── tarefas_pb2_grpc.py
 ├── Vagrantfile
-├── .gitignore
 └── README.md
 ```
 
