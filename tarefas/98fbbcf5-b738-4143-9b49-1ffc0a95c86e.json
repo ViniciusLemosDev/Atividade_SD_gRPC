@@ -1,0 +1,10 @@
+{
+    "id": "98fbbcf5-b738-4143-9b49-1ffc0a95c86e",
+    "titulo": "Teste",
+    "descricao": "Tarefa teste",
+    "status": "Em andamento",
+    "data_limite": "15/02/2027",
+    "responsaveis": [
+        "Vinicius, Gabriel"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "9126d10d-1541-4734-bfd5-dec49bf5e200",
+    "titulo": "Implementar sistema de tarefas",
+    "descricao": "Finalizar o sistema gRPC da atividade de Sistemas Distribuídos",
+    "status": "Pendente",
+    "data_limite": "15/09/2026",
+    "responsaveis": [
+        "Vinicius"
+    ]
+}
