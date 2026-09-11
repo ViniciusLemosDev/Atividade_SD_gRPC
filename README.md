@@ -22,7 +22,7 @@ O projeto utiliza três máquinas virtuais independentes:
 
 ```
 
-### Endereçamento das máquinas
+Endereçamento das máquinas
 
 | Máquina | Função        | IP              |
 | ------- | ------------- | --------------- |
@@ -30,17 +30,10 @@ O projeto utiliza três máquinas virtuais independentes:
 | VM 2    | Cliente 1     | `192.168.56.11` |
 | VM 3    | Cliente 2     | `192.168.56.12` |
 
-O servidor utiliza a porta:
+O servidor utiliza a porta: 50051
 
-```text
-50051
-```
 
-Os clientes se conectam ao servidor através de:
-
-```text
-192.168.56.10:50051
-```
+Os clientes se conectam ao servidor através de: 192.168.56.10:50051
 
 ---
 
