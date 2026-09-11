@@ -446,10 +446,10 @@ Se o `ping` funcionar e o servidor estiver escutando na porta `50051`, o cliente
 
 # Autores
 
-**Vinicius Lemos de Carvalho**
-
 **Gabriel Martins Brito**
 
 **Rafael Hernanni Medeiros Silva**
+
+**Vinicius Lemos de Carvalho**
 
 ---
