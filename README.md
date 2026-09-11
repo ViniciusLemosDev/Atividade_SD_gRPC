@@ -438,10 +438,12 @@ Se o `ping` funcionar e o servidor estiver escutando na porta `50051`, o cliente
 ---
 
 
-# 👨‍💻 Autores
+# Autores
 
 **Vinicius Lemos de Carvalho**
-**Gabriel Martins de Brito**
+
+**Gabriel Martins Brito**
+
 **Rafael Hernanni Medeiros Silva**
 
 ---
