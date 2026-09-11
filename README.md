@@ -4,18 +4,6 @@ Projeto desenvolvido para a disciplina de **Sistemas Distribuídos**, utilizando
 
 O sistema consiste em um servidor gRPC responsável pelo gerenciamento de tarefas e dois clientes que se comunicam remotamente com esse servidor através de uma rede privada.
 
-## Tecnologias utilizadas
-
-* Python 3
-* gRPC
-* Protocol Buffers
-* VirtualBox
-* Vagrant
-* Linux
-* Git/GitHub
-
----
-
 # Arquitetura do sistema
 
 O projeto utiliza três máquinas virtuais independentes:
