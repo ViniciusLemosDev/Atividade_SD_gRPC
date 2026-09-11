@@ -169,11 +169,15 @@ Primeiro um cd .. pra sair do primeiro diretorio:
 ```bash
 cd .. 
 ```
-Depois outro cd .. pra sair do segundo diretorio
+Após isso você deverá estar $home
+
+Depois de outro cd .. pra sair do $home
 
 ```bash
 cd .. 
 ```
+
+Depois disso:
 
 ```bash
 cd vagrant
@@ -182,11 +186,13 @@ Para entrar na pasta do projeto.
 
 # 5. Iniciando o servidor
 
-Na VM que vai ser o servidor e estando dentro da pasta vagrant feito no passo anterior faça o seguinte comando:
+Na VM que vai ser o servidor e estando dentro da pasta vagrant feito no passo 4 faça o seguinte comando:
 
 ```bash
 PYTHONPATH=/vagrant python3 server/server.py
 ```
+
+Deverá aparecer isso no terminal:
 
 ```text
 Servidor rodando na porta 50051...
@@ -200,7 +206,7 @@ O servidor ficará aguardando requisições dos clientes.
 
 # 6. Iniciando o Cliente 1
 
-Na VM que vai ser o Cliente 1 e estando dentro da pasta vagrant feito no passo anterior faça o seguinte comando:
+Na VM que vai ser o Cliente 1 e estando dentro da pasta vagrant feito no passo 4 faça o seguinte comando:
 
 ```bash
 PYTHONPATH=/vagrant python3 client/client.py
@@ -224,7 +230,7 @@ Escolha uma opcao:
 
 # 6. Iniciando o Cliente2
 
-Na VM que vai ser o Cliente 2 e estando dentro da pasta vagrant feito no passo anterior faça o seguinte comando:
+Na VM que vai ser o Cliente 2 e estando dentro da pasta vagrant feito no passo 4 faça o seguinte comando:
 
 ```bash
 PYTHONPATH=/vagrant python3 client/client.py
