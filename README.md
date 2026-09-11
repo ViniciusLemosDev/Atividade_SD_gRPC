@@ -1,4 +1,4 @@
-# Projeto gRPC Distribuído — Sistema de Gerenciamento de Tarefas
+# Projeto gRPC — Sistema de Gerenciamento de Tarefas
 
 Projeto desenvolvido para a disciplina de **Sistemas Distribuídos**, utilizando **gRPC** para comunicação entre múltiplas máquinas virtuais.
 
